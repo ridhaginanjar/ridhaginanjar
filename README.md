@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Ridha Ginanjar
-[![Gmail Badge](https://img.shields.io/badge/-ridhaginanjar7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ridhaginanjar7@gmail.com)](mailto:ridhaginanjar7@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-ridhaginanjar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ridhaginanjar/)](https://www.linkedin.com/in/ridhaginanjar/)
 <p> Student of Informatic Engineering <p>
 
 > Have an interest in Cloud Computing and Data Processing

@@ -1,13 +1,13 @@
 ## Hey 👋, I'm Ridha Ginanjar
 <p> Student of Informatic Engineering <p>
 
-> Have an interest in Cloud Computing and Data Processing
+> Have an interest in Cloud Computing 
 
-🌱 I’m currently learning Data Analyst and Cloud Computing in  advanced
+🌱 I’m currently learning Cloud Computing and Back-End Dev in advanced
 
 📫 How to reach me: find and connect with me on <a href="https://www.linkedin.com/in/ridhaginanjar/">Linkedin</a>
 
-⚡ Fun fact about me: Sometimes I learn to the basic again to remember little things😄 </p>
+</p>
 
 ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ridhaginanjar&show_icons=true&include_all_commits=true)](https://github.com/ridhaginanjar/github-readme-stats)

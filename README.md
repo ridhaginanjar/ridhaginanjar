@@ -3,7 +3,7 @@
 
 > Have an interest in Cloud Computing 
 
-🌱 I’m currently learning Cloud Computing and Back-End Dev in advanced
+🌱 I’m currently learning Cloud Computing and Data Analyst
 
 📫 How to reach me: find and connect with me on <a href="https://www.linkedin.com/in/ridhaginanjar/">Linkedin</a>
 

@@ -1,10 +1,7 @@
 ## Hey 👋, I'm Ridha Ginanjar
-<p> Student of Informatic Engineering <p>
+<p> Currently, I am a Cloud Instructor <p>
 
-> Have an interest in Cloud Computing 
-
-🌱 I’m currently learning Cloud Computing and Data Analyst
-
+🌱 I’m currently learning Cloud Computing, Data Engineering and Data Science
 📫 How to reach me: find and connect with me on <a href="https://www.linkedin.com/in/ridhaginanjar/">Linkedin</a>
 
 </p>

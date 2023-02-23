@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Ridha Ginanjar
-<p> Currently, I am a Cloud Instructor <p>
+<p>I am a Cloud Instructor <p>
 
 🌱 I’m currently learning Cloud Computing, Data Engineering and Data Science
 

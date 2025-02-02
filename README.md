@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Ridha Ginanjar
-<p>I am a Cloud Instructor <p>
+<p>I am a Data Enthusiast <p>
 
-🌱 I’m currently learning Cloud Computing, Data Engineering and Data Science
+🌱 I’m currently learning Cloud Computing, Data Engineering, and Machine Learning
 
 📫 How to reach me: find and connect with me on <a href="https://www.linkedin.com/in/ridhaginanjar/">Linkedin</a>
 

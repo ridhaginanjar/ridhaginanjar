@@ -8,8 +8,8 @@
 </p>
 
 ## Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ridhaginanjar&show_icons=true&include_all_commits=true)](https://github.com/ridhaginanjar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhaginanjar&layout=compact)](https://github.com/ridhaginanjar/github-readme-stats)
+![My Stats](https://github-readme-stats.vercel.app/api?username=ridhaginanjar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhaginanjar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **ridhaginanjar/ridhaginanjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
